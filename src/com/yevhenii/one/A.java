@@ -6,4 +6,5 @@ public class A {
     int z = 2;
     int h = 4;
     String s = "hot fix";
+    String b = "hot fix2";
 }
