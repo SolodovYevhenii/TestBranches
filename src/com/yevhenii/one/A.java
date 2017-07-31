@@ -9,4 +9,5 @@ public class A {
     int i = 4;
     int t = 4;
     String b = "hot fix2";
+    String c = "hot fix3";
 }
