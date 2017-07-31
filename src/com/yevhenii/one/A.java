@@ -12,4 +12,5 @@ public class A {
     int p = 0;
     String c = "hot fix3";
     int g = 25;
+    int c = 35;
 }
