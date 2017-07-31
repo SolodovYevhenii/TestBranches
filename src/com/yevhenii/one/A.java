@@ -11,4 +11,5 @@ public class A {
     String b = "hot fix2";
     int p = 0;
     String c = "hot fix3";
+    int g = 25;
 }
