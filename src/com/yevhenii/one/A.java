@@ -12,4 +12,5 @@ public class A {
     int p = 0;
     String c = "hot fix3";
     String m = "new branch";
+    String w = "new branch 2";
 }
