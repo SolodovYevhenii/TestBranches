@@ -7,4 +7,5 @@ public class A {
     int h = 4;
     String s = "hot fix";
     int i = 4;
+    int t = 4;
 }
